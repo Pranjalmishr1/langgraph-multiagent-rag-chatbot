@@ -1,4 +1,4 @@
-\# LangGraph Multi-Agent RAG Chatbot
+# LangGraph Multi-Agent RAG Chatbot
 
 
 
@@ -10,11 +10,11 @@ This project demonstrates agent-based LLM orchestration using a structured pipel
 
 
 
-\---
+---
 
 
 
-\## Features
+## Features
 
 
 
@@ -40,7 +40,7 @@ This project demonstrates agent-based LLM orchestration using a structured pipel
 
 
 
-\## Tech Stack
+## Tech Stack
 
 
 
@@ -62,7 +62,7 @@ This project demonstrates agent-based LLM orchestration using a structured pipel
 
 
 
-\## Architecture Workflow
+## Architecture Workflow
 
 User uploads PDF
 
@@ -106,11 +106,11 @@ Final Response to User
 
 
 
-\## Installation \& Setup
+## Installation \& Setup
 
 
 
-\### Step 1: Clone Repository
+### Step 1: Clone Repository
 
 
 
@@ -126,7 +126,7 @@ cd langgraph-multiagent-rag-chatbot
 
 
 
-\### Step 2: Create Virtual Environment
+### Step 2: Create Virtual Environment
 
 
 
@@ -140,7 +140,7 @@ venv\\Scripts\\activate
 
 
 
-\### Step 3: Install Dependencies
+### Step 3: Install Dependencies
 
 
 
@@ -168,7 +168,7 @@ pip install langchain langgraph chromadb streamlit python-dotenv langchain-commu
 
 
 
-\### Step 4: Add OpenAI API Key
+### Step 4: Add OpenAI API Key
 
 
 
@@ -188,7 +188,7 @@ OPENAI\_API\_KEY=your\_api\_key\_here
 
 
 
-\### Step 5: Run Application
+### Step 5: Run Application
 
 
 
@@ -220,7 +220,7 @@ Upload a PDF and start asking questions.
 
 
 
-\## Example Use Cases
+## Example Use Cases
 
 
 
@@ -240,7 +240,7 @@ Upload a PDF and start asking questions.
 
 
 
-\## Future Improvements
+## Future Improvements
 
 
 
