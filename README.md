@@ -2,7 +2,7 @@
 
 
 
-A production-style \*\*Multi-Agent Retrieval-Augmented Generation (RAG) chatbot\*\* built using \*\*LangGraph, OpenAI embeddings, and ChromaDB\*\* that enables semantic question answering over uploaded PDF documents.
+A production-style **Multi-Agent Retrieval-Augmented Generation (RAG) chatbot** built using **LangGraph, OpenAI embeddings, and ChromaDB** that enables semantic question answering over uploaded PDF documents.
 
 
 
